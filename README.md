@@ -1,6 +1,8 @@
 
 
 # **🌌 Chaos and Bifurcations**
+![Waketime](https://img.shields.io/badge/Waketime-1%20hrs%2047%20minutes-blueviolet?style=plastic)
+
 
 This project explores **chaos theory** and **bifurcations** through visualizations of the **logistic map** and **bifurcation diagrams**. Using Python, it implements mathematical models to demonstrate how simple nonlinear dynamical systems exhibit **complex behaviors** as system parameters vary.
 
